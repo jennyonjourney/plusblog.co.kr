@@ -1,4 +1,4 @@
-# Config
+﻿# Config
 # ========================================================================================
 
 # IMPORTANT: Set the URL of your site.
@@ -24,7 +24,7 @@ title:                 Hydejack
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
+  "Beauty of action".
   **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
